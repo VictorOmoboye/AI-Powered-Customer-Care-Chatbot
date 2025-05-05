@@ -62,6 +62,10 @@ VicBot is adaptable and can be deployed in various real-world customer-facing en
 ### Project Screenshots
 ![image](https://github.com/user-attachments/assets/1f143556-10df-4526-8b55-1aa1915660be)
 
+### User Interface 
+![image](https://github.com/user-attachments/assets/8bd3d4fb-6953-44a6-9f89-0e0fd6691dc3)
+
+
 ### Video Demo
 
 

@@ -58,3 +58,12 @@ VicBot is adaptable and can be deployed in various real-world customer-facing en
 - **Healthcare Portals:** Provide administrative answers related to appointments, billing, or login access.
 
 - **Corporate Intranets:** Assist employees with internal systems and IT-related FAQs.
+
+### Project Screenshots
+![image](https://github.com/user-attachments/assets/1f143556-10df-4526-8b55-1aa1915660be)
+
+### Video Demo
+
+
+# Still under construction.....
+# Come back for full read and project

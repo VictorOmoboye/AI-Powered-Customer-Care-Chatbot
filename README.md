@@ -68,7 +68,7 @@ VicBot is adaptable and can be deployed in various real-world customer-facing en
 ![image](https://github.com/user-attachments/assets/44002951-2671-48d1-8c69-048c6ffd93de)
 
 ### Python Code file
-![image](https://github.com/user-attachments/assets/1f143556-10df-4526-8b55-1aa1915660be)
+![image](https://github.com/user-attachments/assets/02fe9a07-e113-430a-8b07-85bd75fc4271)
 
 ## CHATBOT VIDEO DEMO
 https://drive.google.com/file/d/1wc-3gjNNEp8N-y00rqhqtHHdmWc58nuw/view?usp=drive_link

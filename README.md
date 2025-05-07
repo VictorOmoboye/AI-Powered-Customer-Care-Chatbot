@@ -2,6 +2,9 @@
 ## Leveraging Conversational AI and NLP to Automate Customer Support for Seamless User Experience
 ![image](https://github.com/user-attachments/assets/d2fe72dd-0645-4b28-ae6b-1634b294ee88)
 
+***⚠️ Disclaimer:**
+This project uses fictional data and examples for demonstration only. No real or confidential information is included. It showcases my skills in building AI-driven customer service chatbots while upholding data ethics and privacy.*
+
 ## INTRODUCTION
 **VicaBot** is an AI-driven customer service chatbot built to provide fast, intelligent, and human-like responses to user inquiries. It combines a rule-based logic engine with Meta’s powerful BlenderBot NLP model to simulate real-time customer support. Designed with simplicity and scalability in mind, **VicaBot** is deployed using Streamlit and is ideal for use in e-commerce, helpdesks, and digital service platforms.
 
@@ -13,7 +16,7 @@
 - [Project Screenshots](###Project-screenshots)
 - [Video Demo](###Video-demo)
 
-### Description 
+## DESCRIPTION 
 This project demonstrates a customer care chatbot that blends AI text generation and pre-scripted decision trees to enhance digital customer service experiences. The chatbot:
 
 - Provides instant answers to frequently asked questions like “How do I get a refund?” or “Where’s my order?”
@@ -21,7 +24,7 @@ This project demonstrates a customer care chatbot that blends AI text generation
 - Maintains context-aware conversations, storing past responses and user inputs to create a chat history.
 - Built with a lightweight Streamlit interface for quick deployment and UI interaction.
 
-### Methodology
+## METHODOLOGY
 The chatbot operates through the following workflow:
 
 1. **User Input:** The user types a question or concern into a text input box.
@@ -39,7 +42,8 @@ The chatbot operates through the following workflow:
 5. **Front-End Display:**
     - The chatbot interface mimics real messaging platforms for a natural chat feel.
 
-### Tools and Technologies
+## TOOLS AND TECHNOLOGIES
+
 | Tool/Library        | Purpose                                 |
 | ------------------- | --------------------------------------- |
 | **Streamlit**       | Frontend UI for chat interaction        |
@@ -48,7 +52,7 @@ The chatbot operates through the following workflow:
 | **Python**          | Core logic and API integration          |
 | **Warnings Module** | Suppresses model load warnings for UX   |
 
-### Deployment Scenarios
+## DEPLOYMENT SCENARIOS 
 VicBot is adaptable and can be deployed in various real-world customer-facing environments:
 
 - **E-commerce Platforms:** Automate refund inquiries, order tracking, and account issues.
@@ -59,14 +63,14 @@ VicBot is adaptable and can be deployed in various real-world customer-facing en
 
 - **Corporate Intranets:** Assist employees with internal systems and IT-related FAQs.
 
-### Project Screenshots
-#### ChatBot Interface 
+## PROJECT SCREENSHOTS 
+### ChatBot Interface 
 ![image](https://github.com/user-attachments/assets/44002951-2671-48d1-8c69-048c6ffd93de)
 
-#### Python Code file
+### Python Code file
 ![image](https://github.com/user-attachments/assets/1f143556-10df-4526-8b55-1aa1915660be)
 
-### ChatBot Video Demo
+## CHATBOT VIDEO DEMO
 https://drive.google.com/file/d/1wc-3gjNNEp8N-y00rqhqtHHdmWc58nuw/view?usp=drive_link
 
 ## THANK YOU

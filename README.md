@@ -47,10 +47,12 @@ The chatbot operates through the following workflow:
 | Tool/Library        | Purpose                                 |
 | ------------------- | --------------------------------------- |
 | **Streamlit**       | Frontend UI for chat interaction        |
-| **HuggingFace 🤗**  | Hosting and retrieving BlenderBot model |
+| **HuggingFace**  | Hosting and retrieving BlenderBot model |
 | **BlenderBot 400M** | AI model for contextual text generation |
 | **Python**          | Core logic and API integration          |
 | **Warnings Module** | Suppresses model load warnings for UX   |
+| **VS Code**         | Python script interface and code editor |
+
 
 ## DEPLOYMENT SCENARIOS 
 VicBot is adaptable and can be deployed in various real-world customer-facing environments:

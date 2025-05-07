@@ -59,10 +59,11 @@ VicBot is adaptable and can be deployed in various real-world customer-facing en
 
 - **Corporate Intranets:** Assist employees with internal systems and IT-related FAQs.
 
-### ChatBot Interface 
+### Project Screenshots
+#### ChatBot Interface 
 ![image](https://github.com/user-attachments/assets/44002951-2671-48d1-8c69-048c6ffd93de)
 
-### Project Screenshots
+#### Python Code file
 ![image](https://github.com/user-attachments/assets/1f143556-10df-4526-8b55-1aa1915660be)
 
 ### ChatBot Video Demo
